@@ -94,6 +94,7 @@ nav a:hover {
 
 .prod li:hover {
 	border-color: #C78C19;
+	cursor: pointer;
 
 }
 
