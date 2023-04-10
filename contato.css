@@ -1,0 +1,69 @@
+body {
+	font-family: Montserrat, sans-serif;
+	/* background: linear-gradient(#4F4F4F,#363636,#1C1C1C,#000000); */
+	background: url(imagens/muro-preto.jpg);
+	color: white;
+}
+
+/* CABEÇÃLHO - FIM */
+
+.caixa-1 {
+	height: 185px;
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+	background: #FF8C00;
+	}
+.logo-cabecalho {
+	width: 135px;
+	padding: 0 50px;
+}
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0px;
+	margin: 0 35px;
+}
+
+
+nav li {
+	display: inline-block;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+
+	text-transform: uppercase;
+	color: #000000;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+nav a:hover {
+	color: white;
+	text-decoration: underline;
+	}
+
+/* CABEÇALHO - FIM */
+
+
+
+
+
+
+
+
+
+
+/* roda-pe */
+
+footer {
+	text-align: center;
+	padding: 40px 0;
+	background: darkorange;
+}
+
+#copyright {
+	color: black;
+}
